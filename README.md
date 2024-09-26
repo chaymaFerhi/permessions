@@ -1,1 +1,1 @@
-# permessions
+shell permessions exemples
